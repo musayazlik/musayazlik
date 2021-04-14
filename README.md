@@ -1,1 +1,1 @@
-<p align="center>fgrthrytjj</p>
+<center>Centered text</center>

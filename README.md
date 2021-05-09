@@ -71,4 +71,4 @@ hobby.
 
 👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=musayazlik)]()
+<figure><embed src="https://wakatime.com/share/@musayazlik/a7912d61-d568-4b02-846c-d165057bd766.svg"></embed></figure>

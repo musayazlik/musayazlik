@@ -15,7 +15,11 @@ started web software with the Php programming language. Later on, I also turned 
 am currently i focused entirely on the front end to specialize. At the same time, I continue to design on figma as a
 hobby.
 </p>
----
 
 
+![Musa Yazlık's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musayazlik&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musayazlik)]()
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=musayazlik)]()
 

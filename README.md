@@ -16,9 +16,9 @@ am currently i focused entirely on the front end to specialize. At the same time
 hobby.
 </p>
 
+## 👨‍🎓 Skills 💪
 
-
-<h3> 👨‍🎓 Skills 💪
+<h3>
 
 ```json
 

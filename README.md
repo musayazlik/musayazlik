@@ -15,7 +15,7 @@ started web software with the Php programming language. Later on, I also turned 
 am currently i focused entirely on the front end to specialize. At the same time, I continue to design on figma as a
 hobby.
 </p>
-
+---
 
 
 

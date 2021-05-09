@@ -16,6 +16,9 @@ am currently i focused entirely on the front end to specialize. At the same time
 hobby.
 </p>
 
+
+
+
 ## 👨‍🎓 Skills 💪
 
 <h3>
@@ -69,6 +72,6 @@ hobby.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musayazlik)]()
 
-👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻
 
-<figure><embed src="https://wakatime.com/share/@musayazlik/a7912d61-d568-4b02-846c-d165057bd766.svg"></embed></figure>
+
+

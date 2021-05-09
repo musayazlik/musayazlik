@@ -17,9 +17,58 @@ hobby.
 </p>
 
 
+
+<h3> 👨‍🎓 Skills 💪
+
+```json
+
+{
+  "code" : [
+    "Javascript" ,
+    "Php" ,
+    "Python" ,
+    "Typescript"
+  ] ,
+  "technologies" : {
+    "backEnd" : {
+      "js" : [
+        "Node.js"
+      ] ,
+      "php" : [
+        "Laravel"
+      ]
+    } ,
+    "frontEnd" : {
+      "html" : [
+        "Html5"
+      ] ,
+      "css" : [
+        "Bootstrap5" ,
+        "Bulma" ,
+        "Scss" ,
+        "Sass"
+      ] ,
+      "js" : [
+        "Jquery" ,
+        "React.js"
+      ]
+    } ,
+    "CMS" : [
+      "Wordpress"
+    ]
+  }
+}
+
+
+```
+
+</h3>
+
+
 ![Musa Yazlık's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musayazlik&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musayazlik)]()
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=musayazlik)]()
+👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=musayazlik)]()

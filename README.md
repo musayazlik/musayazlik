@@ -6,6 +6,7 @@
 <br>
 
 <img src='image/Profile.png' align='right' width='200'>
+<br>
 My name is Musa Yazlık. I was born in 1997 Kayseri city of Turkey. I took my first step into software life by winning
 the Computer Programming department of Erciyes University Kayseri Vocational School. I am currently continuing my
 education life by studying double universities, namely Eskişehir Osmangazi University Mathematics-Computer Sciences and

@@ -1,6 +1,11 @@
-# Hello 👋 I'm Musa Yazlık
+# Hello <img src="https://user-images.githubusercontent.com/33998073/124350904-f8aa8400-dbff-11eb-9d45-e24f6dd3765f.gif" width="50px"> I'm Musa Yazlık
+
 
 <img align="right" src="https://gpvc.arturio.dev/musayazlik" alt="Profile views">
+
+
+[![](https://img.shields.io/github/followers/musayazlik?style=social)](https://github.com/musayazlik)
+[![](https://img.shields.io/twitter/follow/musayazlik?label=Follow&style=social)](https://twitter.com/musayazlik)
 
 <br>
 <br>
@@ -71,5 +76,7 @@ hobby.
 ![Musa Yazlık's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musayazlik&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musayazlik)]()
+
+
 
 

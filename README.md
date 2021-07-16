@@ -3,11 +3,12 @@
 
 <img align="right" src="https://gpvc.arturio.dev/musayazlik" alt="Profile views">
 
+[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/musayazlik)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/musayazlik)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/musa_yazlik)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musayazlik/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@musayazlik.com)
 
-[![](https://img.shields.io/github/followers/musayazlik?style=social)](https://github.com/musayazlik)
-[![](https://img.shields.io/twitter/follow/musayazlik?label=Follow&style=social)](https://twitter.com/musayazlik)
-
-<br>
 <br>
 
 <img src='image/Profile.png' align='right' width='200'>

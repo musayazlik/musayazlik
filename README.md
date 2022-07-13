@@ -1,4 +1,5 @@
-# Hello <img src="https://user-images.githubusercontent.com/33998073/124350904-f8aa8400-dbff-11eb-9d45-e24f6dd3765f.gif" width="50px"> I'm Musa Yazlık
+# Hello <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" height="50" width="50" align="center" /> I'm Musa Yazlık <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/man-technologist.gif" height="50" width="50" align="center" />
+
 
 
 <img align="right" src="https://gpvc.arturio.dev/musayazlik" alt="Profile views">
